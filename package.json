@@ -61,7 +61,7 @@
     "highlight.js": "9.9.0",
     "rxjs": "^5.1.0",
     "showdown": "1.6.0",
-    "zone.js": "^0.7.6",
+    "zone.js": "^0.11.4",
     "d3": "^4.6.0"
   },
   "devDependencies": {
