@@ -52,7 +52,7 @@
     "@covalent/core": "1.0.0-beta.2",
     "@covalent/charts": "1.0.0-beta.2",
     "@covalent/dynamic-forms": "1.0.0-beta.2",
-    "@covalent/highlight": "1.0.0-beta.2",
+    "@covalent/highlight": "1.0.1",
     "@covalent/http": "1.0.0-beta.2",
     "@covalent/markdown": "1.0.0-beta.2",
     "@swimlane/ngx-charts": "^4.1.3",
